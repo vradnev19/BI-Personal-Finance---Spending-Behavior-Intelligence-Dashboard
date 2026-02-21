@@ -174,8 +174,6 @@ Provides actionable financial recommendations:
 Junior Business Intelligence & Data Analyst
 
 📍 Sofia, Bulgaria
-🔗 LinkedIn: *(add link)*
-🔗 GitHub: *(add link)*
 
 ---
 
